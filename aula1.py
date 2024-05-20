@@ -16,3 +16,4 @@ if __name__== "__main__":
     #boasVindas(nome, idade)
     numero = (int(input("Digite o número: ")))
     ePar(numero)
+git config --global user.name "kaiquelopeslp" git config --global user.email kaiquelopeslp@gmail.com

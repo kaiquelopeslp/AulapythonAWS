@@ -4,4 +4,6 @@ alunos = {
     "cidade": "Sume"
 }
 
+
+
 print(alunos["cidade"])
