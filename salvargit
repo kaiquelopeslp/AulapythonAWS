@@ -1,0 +1,8 @@
+ctrl+s
+git add .
+git commit -m "Frase aleatorio"
+git push origin main
+
+
+
+PARA CARREGAR ARQUIVO: git clone "URL do git no PC"
